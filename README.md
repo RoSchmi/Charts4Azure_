@@ -1,7 +1,8 @@
 # Charts4Azure
-View Graphs of Azure Cloud Sensor Data on Android, iOS and Windows
+### View Graphs of Azure Cloud Sensor Data on Android, iOS and Windows
 
 This App is not open source
+
 More Details: https://azureiotcharts.home.blog/
 
 A free of charge version for Windows (UWP-App) is available on the Microsoft Store
